@@ -27,7 +27,7 @@ url: "https://www.interestingdesigns.net" # the base hostname & protocol for you
 github_username:  interestingdesigns
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 #theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
