@@ -27,12 +27,12 @@ url: "https://www.interestingdesigns.net" # the base hostname & protocol for you
 github_username:  interestingdesigns
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-slate
+theme: minima
+#theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
-show_downloads: false
+#show_downloads: false
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
