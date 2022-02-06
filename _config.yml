@@ -28,6 +28,7 @@ github_username:  interestingdesigns
 
 # Build settings
 #theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
@@ -52,4 +53,3 @@ show_downloads: false
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-slate
